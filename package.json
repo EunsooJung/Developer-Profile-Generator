@@ -1,0 +1,26 @@
+{
+  "name": "developer-profile-generator",
+  "version": "1.0.0",
+  "description": "Unit 09 Node.js and ES6+ Homework: Developer Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EunsooJung/Developer-Profile-Generator.git"
+  },
+  "author": "Michael EunsooJung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EunsooJung/Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/EunsooJung/Developer-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^7.0.2",
+    "node": "^13.5.0",
+    "puppeteer": "^2.0.0",
+    "util": "^0.12.1"
+  }
+}
