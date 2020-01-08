@@ -110,8 +110,8 @@ async function generatePDF(username) {
 
 - **Michael(Eunsoo)Jung**
 
+* [Developer Profile Generator: Node.js and ES6](https://eunsoojung.github.io/Developer-Profile-Generator/)
 * [My Portfolio](https://eunsoojung.github.io/Unit-02-Responsive-Portfolio/portfolio.html)
-* [https://eunsoojung.github.io/Weather-Dashboard/](https://eunsoojung.github.io/Weather-Dashboard/)
 * [Link to Github](https://github.com/)
 * [Link to LinkedIn](www.linkedin.com/in/eun-soo-jung/) www.linkedin.com/in/eun-soo-jung/
 
