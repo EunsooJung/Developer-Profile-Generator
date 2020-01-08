@@ -41,6 +41,7 @@ function init() {
         }
       };
 
+      // Get GitHub API data by the axios get method
       let queryUrl = `https://api.github.com/users/${username}`;
 
       return axios.get(queryUrl, config).then(userData => {
@@ -61,7 +62,7 @@ function init() {
             color: color
           };
           console.log(data);
-
+          // Function call
           generateHTML(data);
           creatHTML(generateHTML(data));
           generatePDF(username);
@@ -77,7 +78,7 @@ const creatHTML = function(generateHTML) {
 
 init();
 
-// Implements puppeteer accoding to puppeteer guide line
+// generatePDF Funcion puppeteer accoding to puppeteer guide line
 async function generatePDF(username) {
   try {
     const browser = await puppeteer.launch();
