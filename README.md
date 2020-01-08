@@ -19,7 +19,7 @@ node index.js
 
 ## Preview
 
-[![Weather Dashboard](https://github.com/EunsooJung/Weather-Dashboard/blob/master/img/Weather%20Dashboard.gif?raw=true)](https://github.com/EunsooJung/Weather-Dashboard/blob/master/img/Weather%20Dashboard.gif)
+[![Developer Profile Generator](https://github.com/EunsooJung/Developer-Profile-Generator/blob/master/assets/09-Dev-Profile-Gen.png)](https://github.com/EunsooJung/Developer-Profile-Generator/blob/master/assets/09-Dev-Profile-Gen.png)
 
 ## Usage
 
