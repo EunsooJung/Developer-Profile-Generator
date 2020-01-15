@@ -3,7 +3,7 @@
 Created a command-line application that dynamically generates a PDF profile from a GitHub username.
 
 - Built a Developer Profile Generator using the GitHub API
-- [Applied to My Reponsive Portfolio](https://eunsoojung.github.io/Unit-02-Responsive-Portfolio/portfolio.html)
+- [Applied to My Reponsive Portfolio](https://eunsoojung.github.io/Responsive-Portfolio/portfolio.html)
 
 ## Getting Started
 
@@ -111,7 +111,7 @@ async function generatePDF(username) {
 - **Michael(Eunsoo)Jung**
 
 * [Developer Profile Generator: Node.js and ES6](https://eunsoojung.github.io/Developer-Profile-Generator/)
-* [My Portfolio](https://eunsoojung.github.io/Unit-02-Responsive-Portfolio/portfolio.html)
+* [My Portfolio](https://eunsoojung.github.io/Responsive-Portfolio/portfolio.html)
 * [Link to Github](https://github.com/)
 * [Link to LinkedIn](www.linkedin.com/in/eun-soo-jung/)
 
